@@ -1,4 +1,4 @@
-# Proyecto_Guia_Bedu_Equipo-17
+# Proyecto Guia Bedu Equipo-17
 En este repositorio Se encuentra el proyecto guía del curso de Data Science de Santander.
 
 Este archivo es un avance del proyecto guía en su primera parte siendo manejados los ejercicios de:
@@ -7,7 +7,7 @@ Postwork 2
 Postwork 3
 Postwork 4
 
-Equipo 17 integrado por:
+ # Integrantes:
 
 - Diego Bolaños Pardo
  - Luis Roberto Silva Reyes
